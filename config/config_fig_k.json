@@ -1,0 +1,49 @@
+{
+  "predict_only": false,
+  "params": {
+    "init": [
+      "avg",
+      "smart",
+      "smart++"
+    ],
+    "svd": [
+      "regularized"
+    ],
+    "k_svd": [
+      10,15,20,25,30
+    ],
+    "lrate": [
+      0.001
+    ],
+    "reg1": [
+      0.02
+    ],
+    "reg2": [
+      0.05
+    ],
+    "thresh": [
+      0.0001
+    ],
+    "it": [
+      100
+    ],
+    "n_loops": [
+      6
+    ],
+    "t": [
+      10
+    ],
+    "knn":[
+      true
+    ],
+    "k_knn":[
+      3
+    ],
+    "w_knn":[
+     0.01
+    ],
+    "metric":[
+      "euclidean"
+    ]
+  }
+}
