@@ -2,7 +2,7 @@
 
 ##What is this repository for?
 
-CIL Repository for Collaborative Filtering:  
+CIL Repository for Collaborative Filtering (Team Die 3 Weisen):  
 * Kaggle: https://inclass.kaggle.com/c/cil-collab-filtering-2017  
 * Repo to exercise 3:  https://github.com/dalab/lecture_cil_public/tree/master/exercises/ex3
 
